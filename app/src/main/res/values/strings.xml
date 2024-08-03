@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ApekshaApplication</string>
+
+    <string name="default_web_client_id">739969998739-8lf6ng540oklstvaaur68rt2afmh4e23.apps.googleusercontent.com</string>
+
+
+    <string name="facebook_app_id">1561849431382164</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+
+</resources>
